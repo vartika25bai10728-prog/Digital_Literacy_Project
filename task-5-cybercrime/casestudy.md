@@ -11,3 +11,5 @@ uses the stolen data for fraud or unauthorized access.
 For example, a college student may receive an email asking them to verify their account. Believing it is real, the student enters their login details on a fake page,
 giving the attacker access.
 
+Phishing often targets students, employees, and elderly people, but anyone can be a victim. The consequences include financial loss, identity theft, and loss of
+personal or important data. In organizations, it can also lead to serious security breaches.
