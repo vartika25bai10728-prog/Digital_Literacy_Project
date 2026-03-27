@@ -1,3 +1,4 @@
+# Task 3 (Part A)
 # HackerRank Experience
 
 I created a HackerRank account to improve my coding skills and enhance my problem-solving abilities using Python. I focused on beginner-level challenges to strengthen my understanding of core programming concepts such as loops, conditionals, functions, and basic data structures.
