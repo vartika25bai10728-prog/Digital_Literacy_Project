@@ -1,3 +1,5 @@
+# PART A
+
 # Email 1
 
 
@@ -40,22 +42,7 @@ AIML BTech Student.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# PART B
 
 # Social Media Do’s and Don’ts for College Students
 
