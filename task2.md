@@ -14,9 +14,17 @@
 ![Screenshot 3](Screenshot 2026-03-26 215705.png)
 <img width="1893" height="988" alt="Screenshot 2026-03-26 215705" src="https://github.com/user-attachments/assets/c5505ca8-a3fa-4d1a-9648-dab52a8bd942" />
 
+
+# Screenshot 4
+![Screenshot 4](Screenshot 2026-03-27 122754.png)
+<img width="1890" height="923" alt="Screenshot 2026-03-27 122754" src="https://github.com/user-attachments/assets/ad6652a4-4cdf-4972-876e-adfab02c019c" />
+
+
 ## Reflection Notes
 
 Creating my LinkedIn and GitHub profiles helped me understand how important it is to have a professional presence online. Before this task, I didn’t have much of a knowledge about LinkedIn and Github, but through the process  of making this project I've learned so much and now I see how it can represent my skills and interests.
+
+Making my Kaggle Account helped me in Problem Understanding like to analyze the dataset and build a machine learning model, I started with data cleaning, including handling missing values and encoding categorical variables.
 
 While making my LinkedIn profile, I learned how to present my information clearly, like adding a banner to my profile, a short bio, and my skills. On GitHub, I understood how developers share their work and projects, which is useful for learning and collaboration.
 
