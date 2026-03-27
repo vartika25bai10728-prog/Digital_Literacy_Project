@@ -8,4 +8,6 @@ message often creates urgency, for example by saying the account will be blocked
 fake website. This website looks similar to the real one. When the victim enters their login details, the attacker collects this information. Finally, the attacker
 uses the stolen data for fraud or unauthorized access.
 
+For example, a college student may receive an email asking them to verify their account. Believing it is real, the student enters their login details on a fake page,
+giving the attacker access.
 
