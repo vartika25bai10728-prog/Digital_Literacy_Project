@@ -1,10 +1,10 @@
-#Social Media Do’s and Don’ts for College Students
+# Social Media Do’s and Don’ts for College Students
 
 
 Using social media is one thing and using it responsibly another. using it responsibly is important for maintaining a positive online presence, protecting your privacy, and building professional relationships.
 
 
-##Do’s
+## Do’s
 
 *Post academic achievements: Share projects, assignments, or learning experiences.
 
@@ -17,7 +17,7 @@ Using social media is one thing and using it responsibly another. using it respo
 *Network responsibly: Use social media for career, professional connections, or learning resources.
 
 
-##Don’ts
+## Don’ts
 
 *Don’t share personal info: Avoid posting addresses, phone numbers, or passwords.
 
