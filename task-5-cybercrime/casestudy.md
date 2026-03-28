@@ -15,3 +15,4 @@ giving the attacker access.
 
 Phishing often targets students, employees, and elderly people, but anyone can be a victim. The consequences include financial loss, identity theft, and loss of
 personal or important data. In organizations, it can also lead to serious security breaches.
+
